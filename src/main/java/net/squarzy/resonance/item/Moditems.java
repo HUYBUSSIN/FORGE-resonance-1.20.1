@@ -14,6 +14,9 @@ public class Moditems {
     public static final DeferredRegister<Item> ITEMS =
             DeferredRegister.create(ForgeRegistries.ITEMS, Resonance.MOD_ID);
 
+    public static final RegistryObject<Item> MUSIC_DISC_YES_DA_DA_DA = ITEMS.register( "music_disc_yes_da_da_da",
+            () -> new RecordItem(6 , Modsounds.IRREAL, new Item.Properties(). stacksTo(1), 44100));
+
     public static final RegistryObject<Item> MUSIC_DISC_19999 = ITEMS.register( "music_disc_19999",
             () -> new RecordItem(6 , Modsounds.NEW_REALIZATION, new Item.Properties(). stacksTo(1), 44100));
 

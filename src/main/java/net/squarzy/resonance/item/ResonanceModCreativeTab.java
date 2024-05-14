@@ -17,6 +17,7 @@ public class ResonanceModCreativeTab {
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(Moditems.MUSIC_DISC_19999.get()))
                     .title(Component.translatable("Resonance"))
                     .displayItems((itemDisplayParameters, pOutput) -> {
+                        pOutput.accept(Moditems.MUSIC_DISC_YES_DA_DA_DA.get());
                         pOutput.accept(Moditems.MUSIC_DISC_19999.get());
                         pOutput.accept(Moditems.MUSIC_DISC_NEW_TWILIGHT.get());
                         pOutput.accept(Moditems.MUSIC_DISC_DATED_NEW_AESTHETICS.get());
@@ -39,6 +40,7 @@ public class ResonanceModCreativeTab {
                         pOutput.accept(Moditems.MUSIC_DISC_VIBES.get());
                         pOutput.accept(Moditems.MUSIC_DISC_FINITE_TIME.get());
                         pOutput.accept(Moditems.MUSIC_DISC_FINITE_TIME.get());
+
 
 
                     })

@@ -1,4 +1,6 @@
 {
+  "item.resonance.music_disc_yes_da_da_da": "§bMusic Disc",
+  "item.resonance.music_disc_yes_da_da_da.desc": "Windows96 - Irreal",
 
   "item.resonance.music_disc_19999": "§bMusic Disc",
   "item.resonance.music_disc_19999.desc": "Windows96 - New Realization",
@@ -60,7 +62,7 @@
   "item.resonance.music_disc_vibes": "§bMusic Disc",
   "item.resonance.music_disc_vibes.desc": "Windows96 - A New Day",
 
-  "item.resonance.music_disc_finite_time": "§bMusic Disc",
+  "item.resonance.music_disc_finite_time": "§6Music Disc",
   "item.resonance.music_disc_finite_time.desc": "Windows96 - Finite Time",
 
   "painting.resonance.hall.author": "SquARzY",

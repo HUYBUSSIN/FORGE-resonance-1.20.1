@@ -11,6 +11,7 @@ import net.squarzy.resonance.Resonance;
 public class Modsounds {
     public static final DeferredRegister<SoundEvent> SOUND_EVENTS =
             DeferredRegister.create(ForgeRegistries.SOUND_EVENTS, Resonance.MOD_ID);
+    public static final RegistryObject<SoundEvent> IRREAL = registerSoundEvent("irreal");
 
     public static final RegistryObject<SoundEvent> NEW_REALIZATION = registerSoundEvent("new_realization");
 

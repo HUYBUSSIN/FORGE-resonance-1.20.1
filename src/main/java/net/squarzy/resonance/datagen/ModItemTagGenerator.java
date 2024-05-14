@@ -20,6 +20,13 @@ public class ModItemTagGenerator extends ItemTagsProvider {
 
     @Override
     protected void addTags(HolderLookup.Provider provider) {
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_YES_DA_DA_DA.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_YES_DA_DA_DA.getKey());
+
         this.tag((ItemTags.MUSIC_DISCS))
                 .add(Moditems.MUSIC_DISC_19999.getKey());
 

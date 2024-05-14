@@ -17,6 +17,7 @@ public class ModItemModelProvider extends ItemModelProvider {
 
     @Override
     protected void registerModels() {
+        simpleItem(Moditems.MUSIC_DISC_YES_DA_DA_DA);
         simpleItem(Moditems.MUSIC_DISC_19999);
         simpleItem(Moditems.MUSIC_DISC_NEW_TWILIGHT);
         simpleItem(Moditems.MUSIC_DISC_DATED_NEW_AESTHETICS);
