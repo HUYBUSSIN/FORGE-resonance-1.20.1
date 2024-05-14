@@ -12,7 +12,7 @@ import javax.annotation.Nullable;
 import java.util.concurrent.CompletableFuture;
 
 public class ResonanceDataVariantTagData extends PaintingVariantTagsProvider {
-    public ResonancePaintingVariantTagData(PackOutput packOutput, CompletableFuture<HolderLookup.Provider> lookupProvider, @Nullable ExistingFileHelper existingFileHelper) {
+    public ResonanceDataVariantTagData(PackOutput packOutput, CompletableFuture<HolderLookup.Provider> lookupProvider, @Nullable ExistingFileHelper existingFileHelper) {
         super(packOutput, lookupProvider, Resonance.MOD_ID, existingFileHelper);
 }
     @Override
