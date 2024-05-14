@@ -9,7 +9,6 @@ import net.minecraftforge.data.event.GatherDataEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.squarzy.resonance.Resonance;
-import net.squarzy.resonance.datagen.generators.tags.ResonanceDataVariantTagData;
 
 import java.util.concurrent.CompletableFuture;
 
@@ -32,7 +31,7 @@ import java.util.concurrent.CompletableFuture;
             BlockTagsProviderMod blockTagGenerator = generator.addProvider(event.includeServer(),
                     new BlockTagsProviderMod(packOutput, lookupProvider, existingFileHelper));
             generator.addProvider(event.includeServer(), new ModItemTagGenerator(packOutput, lookupProvider, blockTagGenerator.contentsGetter(), existingFileHelper));
-            generator.addProvider(event.includeServer(), new ResonanceDataVariantTagData(packOutput, lookupProvider, existingFileHelper));
+
         }
     }
 

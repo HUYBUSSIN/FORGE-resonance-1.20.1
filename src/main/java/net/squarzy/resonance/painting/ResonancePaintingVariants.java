@@ -3,7 +3,6 @@ package net.squarzy.resonance.painting;
 import net.minecraft.core.Registry;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.world.entity.decoration.PaintingVariant;
-import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.RegistryObject;
 import net.squarzy.resonance.Resonance;
@@ -22,8 +21,4 @@ public class ResonancePaintingVariants {
     public static RegistryObject<PaintingVariant> CONE_ISLAND = PAINTINGS.register("cone_island", () -> new PaintingVariant(64,64 ));
     public static RegistryObject<PaintingVariant> OFFICE_DAY = PAINTINGS.register("office_day", () -> new PaintingVariant(80,64 ));
     public static RegistryObject<PaintingVariant> DAY_OUT  = PAINTINGS.register("day_out", () -> new PaintingVariant(64,64 ));
-
-    public static void register(IEventBus eventBus) {
-        PAINTINGS.register(eventBus);
-    }
 }

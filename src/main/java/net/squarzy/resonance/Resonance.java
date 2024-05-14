@@ -11,7 +11,6 @@ import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.squarzy.resonance.item.Moditems;
 import net.squarzy.resonance.item.RESONANCE;
-import net.squarzy.resonance.painting.ResonancePaintingVariants;
 import net.squarzy.resonance.sound.Modsounds;
 
 
@@ -30,8 +29,6 @@ public class Resonance {
         Moditems.register(modEventBus);
 
         Modsounds.register(modEventBus);
-
-        ResonancePaintingVariants.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
