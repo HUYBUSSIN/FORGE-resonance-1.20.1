@@ -7,10 +7,9 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.RegistryObject;
-import net.squarzy.resonance.item.Moditems;
 import net.squarzy.resonance.Resonance;
 
-public class RESONANCE {
+public class ResonanceModCreativeTab {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS =
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, Resonance.MOD_ID);
 

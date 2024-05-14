@@ -43,6 +43,7 @@ public class Modsounds {
     public static final RegistryObject<SoundEvent> TRANQUILITY_PATH = registerSoundEvent("tranquility_path");
 
     public static final RegistryObject<SoundEvent> CHIC_SOLITUDE = registerSoundEvent("chic_solitude");
+
     public static final RegistryObject<SoundEvent> AERODYNAMIC_DISSEMINATION = registerSoundEvent("aerodynamic_dissemination");
 
     public static final RegistryObject<SoundEvent> DRIVE_SLOW = registerSoundEvent("drive_slow");

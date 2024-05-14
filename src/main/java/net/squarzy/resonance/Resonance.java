@@ -10,7 +10,7 @@ import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.squarzy.resonance.item.Moditems;
-import net.squarzy.resonance.item.RESONANCE;
+import net.squarzy.resonance.item.ResonanceModCreativeTab;
 import net.squarzy.resonance.sound.Modsounds;
 
 
@@ -24,7 +24,7 @@ public class Resonance {
     public Resonance() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
-        RESONANCE.register(modEventBus);
+        ResonanceModCreativeTab.register(modEventBus);
 
         Moditems.register(modEventBus);
 
