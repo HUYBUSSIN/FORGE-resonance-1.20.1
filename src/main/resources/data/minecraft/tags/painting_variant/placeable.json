@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "resonance:hall",
+    "resonance:w96",
+    "resonance:maze",
+    "resonance:limbo",
+    "resonance:lounge",
+    "resonance:oblivion",
+    "resonance:loon_garden",
+    "resonance:cone_island",
+    "resonance:office_day",
+    "resonance:day_out"
+  ]
+}

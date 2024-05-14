@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "resonance:item/music_disc_how_to_see_through_walls"
+  }
+}

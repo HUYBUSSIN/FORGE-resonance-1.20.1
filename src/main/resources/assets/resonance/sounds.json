@@ -1,0 +1,170 @@
+{
+  "new_realization": {
+    "sounds": [
+      {
+        "name": "resonance:new_realization",
+        "stream": true
+      }
+    ]
+  },
+  "xasd": {
+    "sounds": [
+      {
+        "name": "resonance:xasd",
+        "stream": true
+      }
+    ]
+  },
+  "nome_da_musica": {
+    "sounds": [
+      {
+        "name": "resonance:nome_da_musica",
+        "stream": true
+      }
+    ]
+  },
+  "way_way": {
+    "sounds": [
+      {
+        "name": "resonance:way_way",
+        "stream": true
+      }
+    ]
+  },
+  "edenic_green_plus": {
+    "sounds": [
+      {
+        "name": "resonance:edenic_green_plus",
+        "stream": true
+      }
+    ]
+  },
+  "looking_forward": {
+    "sounds": [
+      {
+        "name": "resonance:looking_forward",
+        "stream": true
+      }
+    ]
+  },
+  "in_between_years": {
+    "sounds": [
+      {
+        "name": "resonance:in_between_years",
+        "stream": true
+      }
+    ]
+  },
+  "heals": {
+    "sounds": [
+      {
+        "name": "resonance:heals",
+        "stream": true
+      }
+    ]
+  },
+  "glass_prism": {
+    "sounds": [
+      {
+        "name": "resonance:glass_prism",
+        "stream": true
+      }
+    ]
+  },
+  "hello_earth": {
+    "sounds": [
+      {
+        "name": "resonance:hello_earth",
+        "stream": true
+      }
+    ]
+  },
+  "caligula": {
+    "sounds": [
+      {
+        "name": "resonance:caligula",
+        "stream": true
+      }
+    ]
+  },
+  "fine_you": {
+    "sounds": [
+      {
+        "name": "resonance:fine_you",
+        "stream": true
+      }
+    ]
+  },
+  "a_cry_in_the_distance": {
+    "sounds": [
+      {
+        "name": "resonance:a_cry_in_the_distance",
+        "stream": true
+      }
+    ]
+  },
+  "chrome": {
+    "sounds": [
+      {
+        "name": "resonance:chrome",
+        "stream": true
+      }
+    ]
+  },
+  "tranquility_path": {
+    "sounds": [
+      {
+        "name": "resonance:tranquility_path",
+        "stream": true
+      }
+    ]
+  },
+  "chic_solitude": {
+    "sounds": [
+      {
+        "name": "resonance:chic_solitude",
+        "stream": true
+      }
+    ]
+  },
+  "aerodynamic_dissemination": {
+    "sounds": [
+      {
+        "name": "resonance:aerodynamic_dissemination",
+        "stream": true
+      }
+    ]
+  },
+  "drive_slow": {
+    "sounds": [
+      {
+        "name": "resonance:drive_slow",
+        "stream": true
+      }
+    ]
+  },
+  "aqua_pura": {
+    "sounds": [
+      {
+        "name": "resonance:aqua_pura",
+        "stream": true
+      }
+    ]
+  },
+  "a_new_day": {
+    "sounds": [
+      {
+        "name": "resonance:a_new_day",
+        "stream": true
+      }
+    ]
+  },
+  "finite_time": {
+    "sounds": [
+      {
+        "name": "resonance:finite_time",
+        "stream": true
+      }
+    ]
+  }
+}
