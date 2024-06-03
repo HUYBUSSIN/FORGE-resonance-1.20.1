@@ -75,7 +75,7 @@ public class Modsounds {
 
     public static final RegistryObject<SoundEvent> TRANQUILITY_PATH = registerSoundEvent("tranquility_path");
 
-    public static final RegistryObject<SoundEvent> ARCARDIA_TOWN = registerSoundEvent("arcardia_town");
+    public static final RegistryObject<SoundEvent> ARCADIA_TOWN = registerSoundEvent("arcadia_town");
 
     public static final RegistryObject<SoundEvent> CHIC_SOLITUDE = registerSoundEvent("chic_solitude");
 

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "resonance:item/music_disc_arcardia_town"
+    "layer0": "resonance:item/music_disc_arcadia_town"
   }
 }

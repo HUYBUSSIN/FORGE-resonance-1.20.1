@@ -51,7 +51,7 @@ public class ResonanceModCreativeTab {
                         pOutput.accept(Moditems.MUSIC_DISC_CHROME.get());
                         pOutput.accept(Moditems.MUSIC_DISC_UNCONSIOUS_RECOLLECTS_II.get());
                         pOutput.accept(Moditems.MUSIC_DISC_TRANQUILITY_PATH.get());
-                        pOutput.accept(Moditems.MUSIC_DISC_ARCARDIA_TOWN.get());
+                        pOutput.accept(Moditems.MUSIC_DISC_ARCADIA_TOWN.get());
                         pOutput.accept(Moditems.MUSIC_DISC_CHIC_SOLITUDE.get());
                         pOutput.accept(Moditems.MUSIC_DISC_SUPERFICIALISM.get());
                         pOutput.accept(Moditems.MUSIC_DISC_AERODYNAMIC_DISSEMINATION.get());

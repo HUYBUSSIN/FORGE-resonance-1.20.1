@@ -303,10 +303,10 @@
       }
     ]
   },
-  "arcardia_town": {
+  "arcadia_town": {
     "sounds": [
       {
-        "name": "resonance:arcardia_town",
+        "name": "resonance:arcadia_town",
         "stream": true
       }
     ]

@@ -107,8 +107,8 @@ public class Moditems {
     public static final RegistryObject<Item> MUSIC_DISC_TRANQUILITY_PATH= ITEMS.register( "music_disc_tranquility_path",
             () -> new RecordItem(6 , Modsounds.TRANQUILITY_PATH, new Item.Properties(). stacksTo(1), 44100));
 
-    public static final RegistryObject<Item> MUSIC_DISC_ARCARDIA_TOWN= ITEMS.register( "music_disc_arcardia_town",
-            () -> new RecordItem(6 , Modsounds.ARCARDIA_TOWN, new Item.Properties(). stacksTo(1), 44100));
+    public static final RegistryObject<Item> MUSIC_DISC_ARCADIA_TOWN= ITEMS.register( "music_disc_arcadia_town",
+            () -> new RecordItem(6 , Modsounds.ARCADIA_TOWN, new Item.Properties(). stacksTo(1), 44100));
 
     public static final RegistryObject<Item> MUSIC_DISC_CHIC_SOLITUDE= ITEMS.register( "music_disc_chic_solitude",
             () -> new RecordItem(6 , Modsounds.CHIC_SOLITUDE, new Item.Properties(). stacksTo(1), 44100));

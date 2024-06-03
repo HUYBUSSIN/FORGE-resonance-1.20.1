@@ -209,10 +209,10 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                 .add(Moditems.MUSIC_DISC_TRANQUILITY_PATH.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_ARCARDIA_TOWN.getKey());
+                .add(Moditems.MUSIC_DISC_ARCADIA_TOWN.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_ARCARDIA_TOWN.getKey());
+                .add(Moditems.MUSIC_DISC_ARCADIA_TOWN.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
                 .add(Moditems.MUSIC_DISC_CHIC_SOLITUDE.getKey());

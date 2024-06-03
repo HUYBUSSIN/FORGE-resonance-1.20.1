@@ -50,7 +50,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(Moditems.MUSIC_DISC_CHROME);
         simpleItem(Moditems.MUSIC_DISC_UNCONSIOUS_RECOLLECTS_II);
         simpleItem(Moditems.MUSIC_DISC_TRANQUILITY_PATH);
-        simpleItem(Moditems.MUSIC_DISC_ARCARDIA_TOWN);
+        simpleItem(Moditems.MUSIC_DISC_ARCADIA_TOWN);
         simpleItem(Moditems.MUSIC_DISC_CHIC_SOLITUDE);
         simpleItem(Moditems.MUSIC_DISC_SUPERFICIALISM);
         simpleItem(Moditems.MUSIC_DISC_AERODYNAMIC_DISSEMINATION);
