@@ -174,5 +174,181 @@
         "stream": true
       }
     ]
+  },
+  "all_i_want": {
+    "sounds": [
+      {
+        "name": "resonance:all_i_want",
+        "stream": true
+      }
+    ]
+  },
+  "space_pinball": {
+    "sounds": [
+      {
+        "name": "resonance:space_pinball",
+        "stream": true
+      }
+    ]
+  },
+  "nevermind": {
+    "sounds": [
+      {
+        "name": "resonance:nevermind",
+        "stream": true
+      }
+    ]
+  },
+  "chronology": {
+    "sounds": [
+      {
+        "name": "resonance:chronology",
+        "stream": true
+      }
+    ]
+  },
+  "takeaguess": {
+    "sounds": [
+      {
+        "name": "resonance:takeaguess",
+        "stream": true
+      }
+    ]
+  },
+  "whos_counting_the_days": {
+    "sounds": [
+      {
+        "name": "resonance:whos_counting_the_days",
+        "stream": true
+      }
+    ]
+  },
+  "crystalline": {
+    "sounds": [
+      {
+        "name": "resonance:crystalline",
+        "stream": true
+      }
+    ]
+  },
+  "skysail": {
+    "sounds": [
+      {
+        "name": "resonance:skysail",
+        "stream": true
+      }
+    ]
+  },
+  "drifter": {
+    "sounds": [
+      {
+        "name": "resonance:drifter",
+        "stream": true
+      }
+    ]
+  },
+  "star_level_ii": {
+    "sounds": [
+      {
+        "name": "resonance:star_level_ii",
+        "stream": true
+      }
+    ]
+  },
+  "underwater": {
+    "sounds": [
+      {
+        "name": "resonance:underwater",
+        "stream": true
+      }
+    ]
+  },
+  "hazy_trip": {
+    "sounds": [
+      {
+        "name": "resonance:hazy_trip",
+        "stream": true
+      }
+    ]
+  },
+  "bliss": {
+    "sounds": [
+      {
+        "name": "resonance:bliss",
+        "stream": true
+      }
+    ]
+  },
+  "punch_your_face": {
+    "sounds": [
+      {
+        "name": "resonance:punch_your_face",
+        "stream": true
+      }
+    ]
+  },
+  "earth_bound": {
+    "sounds": [
+      {
+        "name": "resonance:earth_bound",
+        "stream": true
+      }
+    ]
+  },
+  "unconscious_recollects_ii": {
+    "sounds": [
+      {
+        "name": "resonance:unconscious_recollects_ii",
+        "stream": true
+      }
+    ]
+  },
+  "arcardia_town": {
+    "sounds": [
+      {
+        "name": "resonance:arcardia_town",
+        "stream": true
+      }
+    ]
+  },
+  "superficialism": {
+    "sounds": [
+      {
+        "name": "resonance:superficialism",
+        "stream": true
+      }
+    ]
+  },
+  "unit_1644": {
+    "sounds": [
+      {
+        "name": "resonance:unit_1644",
+        "stream": true
+      }
+    ]
+  },
+  "no_future": {
+    "sounds": [
+      {
+        "name": "resonance:no_future",
+        "stream": true
+      }
+    ]
+  },
+  "u_know": {
+    "sounds": [
+      {
+        "name": "resonance:u_know",
+        "stream": true
+      }
+    ]
+  },
+  "red_skies": {
+    "sounds": [
+      {
+        "name": "resonance:red_skies",
+        "stream": true
+      }
+    ]
   }
 }

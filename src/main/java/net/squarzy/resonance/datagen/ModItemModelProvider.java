@@ -17,28 +17,52 @@ public class ModItemModelProvider extends ItemModelProvider {
 
     @Override
     protected void registerModels() {
-        simpleItem(Moditems.MUSIC_DISC_YES_DA_DA_DA);
-        simpleItem(Moditems.MUSIC_DISC_19999);
-        simpleItem(Moditems.MUSIC_DISC_NEW_TWILIGHT);
-        simpleItem(Moditems.MUSIC_DISC_DATED_NEW_AESTHETICS);
-        simpleItem(Moditems.MUSIC_DISC_HOW_TO_SEE_THROUGH_WALLS);
-        simpleItem(Moditems.MUSIC_DISC_EMPTY_HIDING_WORLD);
-        simpleItem(Moditems.MUSIC_DISC_MAGIC_PEAKS);
-        simpleItem(Moditems.MUSIC_DISC_RED_TWILIGHT);
-        simpleItem(Moditems.MUSIC_DISC_IN_THE_WORLDE);
+
+
+        simpleItem(Moditems.MUSIC_DISC_IRREAL);
+        simpleItem(Moditems.MUSIC_DISC_SPACE_PINBALL);
+        simpleItem(Moditems.MUSIC_DISC_NEW_REALIZATION);
+        simpleItem(Moditems.MUSIC_DISC_NEVERMIND);
+        simpleItem(Moditems.MUSIC_DISC_XASD);
+        simpleItem(Moditems.MUSIC_DISC_CHRONOLOGY);
+        simpleItem(Moditems.MUSIC_DISC_NOME_DA_MUSICA);
+        simpleItem(Moditems.MUSIC_DISC_TAKEAGUESS);
+        simpleItem(Moditems.MUSIC_DISC_WAY_WAY);
+        simpleItem(Moditems.MUSIC_DISC_WHOS_COUNTING_THE_DAYS);
+        simpleItem(Moditems.MUSIC_DISC_EDENIC_GREEN_PLUS);
+        simpleItem(Moditems.MUSIC_DISC_CRYSTALLINE);
+        simpleItem(Moditems.MUSIC_DISC_LOOKING_FORWARD);
+        simpleItem(Moditems.MUSIC_DISC_SKYSAIL);
+        simpleItem(Moditems.MUSIC_DISC_IN_BETWEEN_YEARS);
+        simpleItem(Moditems.MUSIC_DISC_DRIFTER);
+        simpleItem(Moditems.MUSIC_DISC_HEALS);
+        simpleItem(Moditems.MUSIC_DISC_STAR_LEVEL_II);
         simpleItem(Moditems.MUSIC_DISC_GLASS_PRISM);
-        simpleItem(Moditems.MUSIC_DISC_ENCHANTED_INSTRUMENTALS_AND_WHISPERS);
-        simpleItem(Moditems.MUSIC_DISC_ONE_HUNDRED_MORNINGS);
-        simpleItem(Moditems.MUSIC_DISC_NOSTAlGI_GAIUS);
-        simpleItem(Moditems.MUSIC_DISC_GRADIENT_HORIZONT);
-        simpleItem(Moditems.MUSIC_DISC_OPTIMIZED);
-        simpleItem(Moditems.MUSIC_DISC_PLUME_VALLEY);
-        simpleItem(Moditems.MUSIC_DISC_PALE_MEDITATIONS);
-        simpleItem(Moditems.MUSIC_DISC_VISTA_OF_CHAOS);
-        simpleItem(Moditems.MUSIC_DISC_REFLECTIONS);
-        simpleItem(Moditems.MUSIC_DISC_NEMATOPHY);
-        simpleItem(Moditems.MUSIC_DISC_VIBES);
+        simpleItem(Moditems.MUSIC_DISC_UNDERWATER);
+        simpleItem(Moditems.MUSIC_DISC_HELLO_EARTH);
+        simpleItem(Moditems.MUSIC_DISC_HAZY_TRIP);
+        simpleItem(Moditems.MUSIC_DISC_CALIGULA);
+        simpleItem(Moditems.MUSIC_DISC_BLISS);
+        simpleItem(Moditems.MUSIC_DISC_FINE_YOU);
+        simpleItem(Moditems.MUSIC_DISC_PUNCH_YOUR_FACE);
+        simpleItem(Moditems.MUSIC_DISC_A_CRY_IN_THE_DISTANCE);
+        simpleItem(Moditems.MUSIC_DISC_EARTH_BOUND);
+        simpleItem(Moditems.MUSIC_DISC_CHROME);
+        simpleItem(Moditems.MUSIC_DISC_UNCONSIOUS_RECOLLECTS_II);
+        simpleItem(Moditems.MUSIC_DISC_TRANQUILITY_PATH);
+        simpleItem(Moditems.MUSIC_DISC_ARCARDIA_TOWN);
+        simpleItem(Moditems.MUSIC_DISC_CHIC_SOLITUDE);
+        simpleItem(Moditems.MUSIC_DISC_SUPERFICIALISM);
+        simpleItem(Moditems.MUSIC_DISC_AERODYNAMIC_DISSEMINATION);
+        simpleItem(Moditems.MUSIC_DISC_UNIT_1644);
+        simpleItem(Moditems.MUSIC_DISC_DRIVE_SLOW);
+        simpleItem(Moditems.MUSIC_DISC_NO_FUTURE);
+        simpleItem(Moditems.MUSIC_DISC_AQUA_PURA);
+        simpleItem(Moditems.MUSIC_DISC_U_KNOW);
+        simpleItem(Moditems.MUSIC_DISC_A_NEW_DAY);
+        simpleItem(Moditems.MUSIC_DISC_RED_SKIES);
         simpleItem(Moditems.MUSIC_DISC_FINITE_TIME);
+        simpleItem(Moditems.MUSIC_DISC_ALL_I_WANT);
 
 
     }

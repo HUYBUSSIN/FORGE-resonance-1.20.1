@@ -22,6 +22,9 @@ public class ResonancePaintingVariants {
     public static RegistryObject<PaintingVariant> CONE_ISLAND = PAINTINGS.register("cone_island", () -> new PaintingVariant(64,64 ));
     public static RegistryObject<PaintingVariant> OFFICE_DAY = PAINTINGS.register("office_day", () -> new PaintingVariant(80,64 ));
     public static RegistryObject<PaintingVariant> DAY_OUT  = PAINTINGS.register("day_out", () -> new PaintingVariant(64,64 ));
+    public static RegistryObject<PaintingVariant> WEVE_BEEN_OKAY = PAINTINGS.register("weve_been_okay", () -> new PaintingVariant(64, 64));
+    public static RegistryObject<PaintingVariant> DISC = PAINTINGS.register("disc", () -> new PaintingVariant(64, 64));
+    public static RegistryObject<PaintingVariant> FLOATING_SPHERES = PAINTINGS.register("floating_spheres", () -> new PaintingVariant(96, 64));
 
     public static void register(IEventBus eventBus) {
         PAINTINGS.register(eventBus);

@@ -29,7 +29,10 @@ public class ResonanceDataVariantTagData extends PaintingVariantTagsProvider {
                         ResonancePaintingVariants.LOON_GARDEN.getKey(),
                         ResonancePaintingVariants.CONE_ISLAND.getKey(),
                         ResonancePaintingVariants.OFFICE_DAY.getKey(),
-                        ResonancePaintingVariants.DAY_OUT.getKey()
+                        ResonancePaintingVariants.DAY_OUT.getKey(),
+                        ResonancePaintingVariants.WEVE_BEEN_OKAY.getKey(),
+                        ResonancePaintingVariants.DISC.getKey(),
+                        ResonancePaintingVariants.FLOATING_SPHERES.getKey()
 
                 );
     }

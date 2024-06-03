@@ -21,59 +21,114 @@ public class ModItemTagGenerator extends ItemTagsProvider {
     @Override
     protected void addTags(HolderLookup.Provider provider) {
 
-        this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_YES_DA_DA_DA.getKey());
-
-        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_YES_DA_DA_DA.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_19999.getKey());
+                .add(Moditems.MUSIC_DISC_IRREAL.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_19999.getKey());
+                .add(Moditems.MUSIC_DISC_IRREAL.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_NEW_TWILIGHT.getKey());
+                .add(Moditems.MUSIC_DISC_SPACE_PINBALL.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_NEW_TWILIGHT.getKey());
+                .add(Moditems.MUSIC_DISC_SPACE_PINBALL.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_DATED_NEW_AESTHETICS.getKey());
+                .add(Moditems.MUSIC_DISC_NEW_REALIZATION.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_DATED_NEW_AESTHETICS.getKey());
+                .add(Moditems.MUSIC_DISC_NEW_REALIZATION.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_HOW_TO_SEE_THROUGH_WALLS.getKey());
+                .add(Moditems.MUSIC_DISC_NEVERMIND.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_HOW_TO_SEE_THROUGH_WALLS.getKey());
+                .add(Moditems.MUSIC_DISC_NEVERMIND.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_EMPTY_HIDING_WORLD.getKey());
+                .add(Moditems.MUSIC_DISC_XASD.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_EMPTY_HIDING_WORLD.getKey());
+                .add(Moditems.MUSIC_DISC_XASD.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_MAGIC_PEAKS.getKey());
+                .add(Moditems.MUSIC_DISC_CHRONOLOGY.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_MAGIC_PEAKS.getKey());
+                .add(Moditems.MUSIC_DISC_CHRONOLOGY.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_RED_TWILIGHT.getKey());
+                .add(Moditems.MUSIC_DISC_NOME_DA_MUSICA.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_RED_TWILIGHT.getKey());
+                .add(Moditems.MUSIC_DISC_NOME_DA_MUSICA.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_IN_THE_WORLDE.getKey());
+                .add(Moditems.MUSIC_DISC_TAKEAGUESS.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_IN_THE_WORLDE.getKey());
+                .add(Moditems.MUSIC_DISC_TAKEAGUESS.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_WAY_WAY.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_WAY_WAY.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_WHOS_COUNTING_THE_DAYS.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_WHOS_COUNTING_THE_DAYS.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_EDENIC_GREEN_PLUS.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_EDENIC_GREEN_PLUS.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_CRYSTALLINE.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_CRYSTALLINE.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_LOOKING_FORWARD.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_LOOKING_FORWARD.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_SKYSAIL.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_SKYSAIL.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_IN_BETWEEN_YEARS.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_IN_BETWEEN_YEARS.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_DRIFTER.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_DRIFTER.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_HEALS.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_HEALS.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_STAR_LEVEL_II.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_STAR_LEVEL_II.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
                 .add(Moditems.MUSIC_DISC_GLASS_PRISM.getKey());
@@ -82,76 +137,154 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                 .add(Moditems.MUSIC_DISC_GLASS_PRISM.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_ENCHANTED_INSTRUMENTALS_AND_WHISPERS.getKey());
+                .add(Moditems.MUSIC_DISC_UNDERWATER.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_ENCHANTED_INSTRUMENTALS_AND_WHISPERS.getKey());
+                .add(Moditems.MUSIC_DISC_UNDERWATER.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_ONE_HUNDRED_MORNINGS.getKey());
+                .add(Moditems.MUSIC_DISC_HELLO_EARTH.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_ONE_HUNDRED_MORNINGS.getKey());
+                .add(Moditems.MUSIC_DISC_HELLO_EARTH.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_NOSTAlGI_GAIUS.getKey());
+                .add(Moditems.MUSIC_DISC_HAZY_TRIP.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_NOSTAlGI_GAIUS.getKey());
+                .add(Moditems.MUSIC_DISC_HAZY_TRIP.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_GRADIENT_HORIZONT.getKey());
+                .add(Moditems.MUSIC_DISC_CALIGULA.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_GRADIENT_HORIZONT.getKey());
+                .add(Moditems.MUSIC_DISC_CALIGULA.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_OPTIMIZED.getKey());
+                .add(Moditems.MUSIC_DISC_BLISS.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_OPTIMIZED.getKey());
+                .add(Moditems.MUSIC_DISC_BLISS.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_PLUME_VALLEY.getKey());
+                .add(Moditems.MUSIC_DISC_FINE_YOU.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_PLUME_VALLEY.getKey());
+                .add(Moditems.MUSIC_DISC_FINE_YOU.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_PALE_MEDITATIONS.getKey());
+                .add(Moditems.MUSIC_DISC_PUNCH_YOUR_FACE.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_PALE_MEDITATIONS.getKey());
+                .add(Moditems.MUSIC_DISC_PUNCH_YOUR_FACE.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_VISTA_OF_CHAOS.getKey());
+                .add(Moditems.MUSIC_DISC_A_CRY_IN_THE_DISTANCE.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_VISTA_OF_CHAOS.getKey());
+                .add(Moditems.MUSIC_DISC_A_CRY_IN_THE_DISTANCE.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_REFLECTIONS.getKey());
+                .add(Moditems.MUSIC_DISC_EARTH_BOUND.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_REFLECTIONS.getKey());
+                .add(Moditems.MUSIC_DISC_EARTH_BOUND.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_NEMATOPHY.getKey());
+                .add(Moditems.MUSIC_DISC_CHROME.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_NEMATOPHY.getKey());
+                .add(Moditems.MUSIC_DISC_CHROME.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_VIBES.getKey());
+                .add(Moditems.MUSIC_DISC_UNCONSIOUS_RECOLLECTS_II.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_VIBES.getKey());
+                .add(Moditems.MUSIC_DISC_UNCONSIOUS_RECOLLECTS_II.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_TRANQUILITY_PATH.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_TRANQUILITY_PATH.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_ARCARDIA_TOWN.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_ARCARDIA_TOWN.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_CHIC_SOLITUDE.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_CHIC_SOLITUDE.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_SUPERFICIALISM.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_SUPERFICIALISM.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_AERODYNAMIC_DISSEMINATION.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_AERODYNAMIC_DISSEMINATION.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_UNIT_1644.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_UNIT_1644.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_DRIVE_SLOW.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_DRIVE_SLOW.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_NO_FUTURE.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_NO_FUTURE.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_AQUA_PURA.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_AQUA_PURA.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_U_KNOW.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_U_KNOW.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_A_NEW_DAY.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_A_NEW_DAY.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_RED_SKIES.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_RED_SKIES.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
                 .add(Moditems.MUSIC_DISC_FINITE_TIME.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
                 .add(Moditems.MUSIC_DISC_FINITE_TIME.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_ALL_I_WANT.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_ALL_I_WANT.getKey());
 
 
     }
