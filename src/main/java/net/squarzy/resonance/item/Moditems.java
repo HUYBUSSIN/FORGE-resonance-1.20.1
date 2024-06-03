@@ -95,8 +95,8 @@ public class Moditems {
     public static final RegistryObject<Item> MUSIC_DISC_A_CRY_IN_THE_DISTANCE= ITEMS.register( "music_disc_a_cry_in_the_distance",
             () -> new RecordItem(6 , Modsounds.A_CRY_IN_THE_DISTANCE, new Item.Properties(). stacksTo(1), 44100));
 
-    public static final RegistryObject<Item> MUSIC_DISC_EARTH_BOUND= ITEMS.register( "music_disc_earth_bound",
-            () -> new RecordItem(6 , Modsounds.EARTH_BOUND, new Item.Properties(). stacksTo(1), 44100));
+    public static final RegistryObject<Item> MUSIC_DISC_EARTHBOUND= ITEMS.register( "music_disc_earthbound",
+            () -> new RecordItem(6 , Modsounds.EARTHBOUND, new Item.Properties(). stacksTo(1), 44100));
 
     public static final RegistryObject<Item> MUSIC_DISC_CHROME= ITEMS.register( "music_disc_chrome",
             () -> new RecordItem(6 , Modsounds.CHROME, new Item.Properties(). stacksTo(1), 44100));

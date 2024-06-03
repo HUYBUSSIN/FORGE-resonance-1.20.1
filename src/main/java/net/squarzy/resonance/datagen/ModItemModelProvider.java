@@ -46,7 +46,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(Moditems.MUSIC_DISC_FINE_YOU);
         simpleItem(Moditems.MUSIC_DISC_PUNCH_YOUR_FACE);
         simpleItem(Moditems.MUSIC_DISC_A_CRY_IN_THE_DISTANCE);
-        simpleItem(Moditems.MUSIC_DISC_EARTH_BOUND);
+        simpleItem(Moditems.MUSIC_DISC_EARTHBOUND);
         simpleItem(Moditems.MUSIC_DISC_CHROME);
         simpleItem(Moditems.MUSIC_DISC_UNCONSIOUS_RECOLLECTS_II);
         simpleItem(Moditems.MUSIC_DISC_TRANQUILITY_PATH);

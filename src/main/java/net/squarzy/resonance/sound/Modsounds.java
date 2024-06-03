@@ -67,7 +67,7 @@ public class Modsounds {
 
     public static final RegistryObject<SoundEvent> A_CRY_IN_THE_DISTANCE = registerSoundEvent("a_cry_in_the_distance");
 
-    public static final RegistryObject<SoundEvent> EARTH_BOUND = registerSoundEvent("earth_bound");
+    public static final RegistryObject<SoundEvent> EARTHBOUND = registerSoundEvent("earthbound");
 
     public static final RegistryObject<SoundEvent> CHROME = registerSoundEvent("chrome");
 

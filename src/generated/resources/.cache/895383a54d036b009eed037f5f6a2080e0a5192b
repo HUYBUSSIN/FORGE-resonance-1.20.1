@@ -1,4 +1,4 @@
-// 1.20.1	2024-06-04T01:29:18.0604326	Item Models: resonance
+// 1.20.1	2024-06-04T01:43:20.7690207	Item Models: resonance
 3c1a3102df29345bc9fe8e1893481c76cb74f330 assets/resonance/models/item/music_disc_aerodynamic_dissemination.json
 6910f8f88805334c4ee5a267ee8e52d8b18debaf assets/resonance/models/item/music_disc_all_i_want.json
 79d96f7c2c1233f5c66307ad439068e7417bb87b assets/resonance/models/item/music_disc_aqua_pura.json
@@ -13,7 +13,7 @@ eb852c995d27c6a4f30f74a11b5c16d7bb38a1e4 assets/resonance/models/item/music_disc
 7fdd143695659cbae1fc0a5d3e4431981ab65242 assets/resonance/models/item/music_disc_crystalline.json
 478840068795d193aa34b2cbd3a8e7a7c88f47d7 assets/resonance/models/item/music_disc_drifter.json
 773541fa31a3667ee49ab7667aab903990c6b132 assets/resonance/models/item/music_disc_drive_slow.json
-cdda4370035d1211cd4b0f105bfc3d18b4e93a3e assets/resonance/models/item/music_disc_earth_bound.json
+6aeb1fe731a43a3ff63d4233f73df6eb889ee3d0 assets/resonance/models/item/music_disc_earthbound.json
 322083745cd101eef36d7a78391754977967e372 assets/resonance/models/item/music_disc_edenic_green_plus.json
 06859e7c412000c6701aa368c73379b0576c155f assets/resonance/models/item/music_disc_fine_you.json
 8a4a5b079d3724ece24ddca201ab1442902cbd13 assets/resonance/models/item/music_disc_finite_time.json

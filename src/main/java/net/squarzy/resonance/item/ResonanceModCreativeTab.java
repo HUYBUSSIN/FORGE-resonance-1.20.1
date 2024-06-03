@@ -47,7 +47,7 @@ public class ResonanceModCreativeTab {
                         pOutput.accept(Moditems.MUSIC_DISC_FINE_YOU.get());
                         pOutput.accept(Moditems.MUSIC_DISC_PUNCH_YOUR_FACE.get());
                         pOutput.accept(Moditems.MUSIC_DISC_A_CRY_IN_THE_DISTANCE.get());
-                        pOutput.accept(Moditems.MUSIC_DISC_EARTH_BOUND.get());
+                        pOutput.accept(Moditems.MUSIC_DISC_EARTHBOUND.get());
                         pOutput.accept(Moditems.MUSIC_DISC_CHROME.get());
                         pOutput.accept(Moditems.MUSIC_DISC_UNCONSIOUS_RECOLLECTS_II.get());
                         pOutput.accept(Moditems.MUSIC_DISC_TRANQUILITY_PATH.get());

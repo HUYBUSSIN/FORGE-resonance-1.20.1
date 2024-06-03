@@ -287,10 +287,10 @@
       }
     ]
   },
-  "earth_bound": {
+  "earthbound": {
     "sounds": [
       {
-        "name": "resonance:earth_bound",
+        "name": "resonance:earthbound",
         "stream": true
       }
     ]

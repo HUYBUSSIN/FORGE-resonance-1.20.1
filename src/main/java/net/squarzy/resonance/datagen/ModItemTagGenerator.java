@@ -185,10 +185,10 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                 .add(Moditems.MUSIC_DISC_A_CRY_IN_THE_DISTANCE.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_EARTH_BOUND.getKey());
+                .add(Moditems.MUSIC_DISC_EARTHBOUND.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_EARTH_BOUND.getKey());
+                .add(Moditems.MUSIC_DISC_EARTHBOUND.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
                 .add(Moditems.MUSIC_DISC_CHROME.getKey());
