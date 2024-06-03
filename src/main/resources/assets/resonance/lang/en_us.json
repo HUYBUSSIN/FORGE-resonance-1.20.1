@@ -16,7 +16,7 @@
   "item.resonance.music_disc_xasd.desc": "Gavriel - XASD",
 
   "item.resonance.music_disc_chronology": "§bMusic Disc",
-  "item.resonance.music_disc_chronology.desc": "Lost Odysseas, Gavriel - Chronology",
+  "item.resonance.music_disc_chronology.desc": "Lost Odysseas & Gavriel - Chronology",
 
   "item.resonance.music_disc_nome_da_musica": "§bMusic Disc",
   "item.resonance.music_disc_nome_da_musica.desc": "Windows96 - Nome Da Musica",
@@ -126,11 +126,14 @@
   "item.resonance.music_disc_red_skies": "§bMusic Disc",
   "item.resonance.music_disc_red_skies.desc": "Windows96 - Red Skies",
 
+  "item.resonance.music_disc_all_i_want": "§bMusic Disc",
+  "item.resonance.music_disc_all_i_want.desc": "Windows96 - All I Want",
+
   "item.resonance.music_disc_finite_time": "§6Music Disc",
   "item.resonance.music_disc_finite_time.desc": "Windows96 - Finite Time",
 
-  "item.resonance.music_disc_all_i_want": "§bMusic Disc",
-  "item.resonance.music_disc_all_i_want.desc": "Windows96 - All I Want",
+  "item.resonance.music_disc_lynx": "§6Music Disc",
+  "item.resonance.music_disc_lynx.desc": "Hotel Pool & Windows96 - Lynx",
 
   "painting.resonance.hall.author": "SquARzY",
   "painting.resonance.hall.title": "Hall",

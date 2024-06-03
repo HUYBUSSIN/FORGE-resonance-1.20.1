@@ -275,16 +275,24 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                 .add(Moditems.MUSIC_DISC_RED_SKIES.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_ALL_I_WANT.getKey());
+
+        this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
+                .add(Moditems.MUSIC_DISC_ALL_I_WANT.getKey());
+
+        this.tag((ItemTags.MUSIC_DISCS))
                 .add(Moditems.MUSIC_DISC_FINITE_TIME.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
                 .add(Moditems.MUSIC_DISC_FINITE_TIME.getKey());
 
         this.tag((ItemTags.MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_ALL_I_WANT.getKey());
+                .add(Moditems.MUSIC_DISC_LYNX.getKey());
 
         this.tag((ItemTags.CREEPER_DROP_MUSIC_DISCS))
-                .add(Moditems.MUSIC_DISC_ALL_I_WANT.getKey());
+                .add(Moditems.MUSIC_DISC_LYNX.getKey());
+
+
 
 
     }

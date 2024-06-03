@@ -140,11 +140,16 @@ public class Moditems {
     public static final RegistryObject<Item> MUSIC_DISC_RED_SKIES= ITEMS.register( "music_disc_red_skies",
             () -> new RecordItem(6 , Modsounds.RED_SKIES, new Item.Properties(). stacksTo(1), 44100));
 
+    public static final RegistryObject<Item> MUSIC_DISC_ALL_I_WANT= ITEMS.register( "music_disc_all_i_want",
+            () -> new RecordItem( 6, Modsounds.ALL_I_WANT, new Item.Properties().stacksTo(1), 44100));
+
     public static final RegistryObject<Item> MUSIC_DISC_FINITE_TIME= ITEMS.register( "music_disc_finite_time",
             () -> new RecordItem(6 , Modsounds.FINITE_TIME, new Item.Properties(). stacksTo(1), 44100));
 
-    public static final RegistryObject<Item> MUSIC_DISC_ALL_I_WANT= ITEMS.register( "music_disc_all_i_want",
-            () -> new RecordItem( 6, Modsounds.ALL_I_WANT, new Item.Properties().stacksTo(1), 44100));
+    public static final RegistryObject<Item> MUSIC_DISC_LYNX= ITEMS.register( "music_disc_lynx",
+            () -> new RecordItem(6 , Modsounds.LYNX, new Item.Properties(). stacksTo(1), 44100));
+
+
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

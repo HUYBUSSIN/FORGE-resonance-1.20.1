@@ -61,8 +61,10 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(Moditems.MUSIC_DISC_U_KNOW);
         simpleItem(Moditems.MUSIC_DISC_A_NEW_DAY);
         simpleItem(Moditems.MUSIC_DISC_RED_SKIES);
-        simpleItem(Moditems.MUSIC_DISC_FINITE_TIME);
         simpleItem(Moditems.MUSIC_DISC_ALL_I_WANT);
+        simpleItem(Moditems.MUSIC_DISC_FINITE_TIME);
+        simpleItem(Moditems.MUSIC_DISC_LYNX);
+
 
 
     }

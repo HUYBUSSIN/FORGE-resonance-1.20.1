@@ -350,5 +350,13 @@
         "stream": true
       }
     ]
+  },
+  "lynx": {
+    "sounds": [
+      {
+        "name": "resonance:lynx",
+        "stream": true
+      }
+    ]
   }
 }

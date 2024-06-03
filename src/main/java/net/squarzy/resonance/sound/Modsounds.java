@@ -97,9 +97,13 @@ public class Modsounds {
 
     public static final RegistryObject<SoundEvent> RED_SKIES = registerSoundEvent("red_skies");
 
+    public static final RegistryObject<SoundEvent> ALL_I_WANT = registerSoundEvent("all_i_want");
+
     public static final RegistryObject<SoundEvent> FINITE_TIME = registerSoundEvent("finite_time");
 
-    public static final RegistryObject<SoundEvent> ALL_I_WANT = registerSoundEvent("all_i_want");
+    public static final RegistryObject<SoundEvent> LYNX = registerSoundEvent("lynx");
+
+
 
     private static RegistryObject<SoundEvent> registerSoundEvent(String name) {
         return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(Resonance.MOD_ID, name)));

@@ -2,19 +2,21 @@ package net.squarzy.resonance.item;
 
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
+import net.minecraft.world.entity.decoration.PaintingVariant;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.RegistryObject;
 import net.squarzy.resonance.Resonance;
+import net.squarzy.resonance.painting.ResonancePaintingVariants;
 
 public class ResonanceModCreativeTab {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS =
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, Resonance.MOD_ID);
 
     public static final RegistryObject<CreativeModeTab> RESONANCE = CREATIVE_MODE_TABS.register("resonance",
-            () -> CreativeModeTab.builder().icon(() -> new ItemStack(Moditems.MUSIC_DISC_NEW_REALIZATION.get()))
+            () -> CreativeModeTab.builder().icon(() -> new ItemStack(Moditems.MUSIC_DISC_AERODYNAMIC_DISSEMINATION.get()))
                     .title(Component.translatable("Resonance"))
                     .displayItems((itemDisplayParameters, pOutput) -> {
 
@@ -62,9 +64,7 @@ public class ResonanceModCreativeTab {
                         pOutput.accept(Moditems.MUSIC_DISC_RED_SKIES.get());
                         pOutput.accept(Moditems.MUSIC_DISC_ALL_I_WANT.get());
                         pOutput.accept(Moditems.MUSIC_DISC_FINITE_TIME.get());
-
-
-
+                        pOutput.accept(Moditems.MUSIC_DISC_LYNX.get());
 
                     })
                     .build());
