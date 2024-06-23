@@ -6,17 +6,26 @@
   "item.resonance.music_disc_space_pinball": "§bMusic Disc",
   "item.resonance.music_disc_space_pinball.desc": "Windows96 - Space Pinball",
 
+  "item.resonance.music_disc_underwater_were_okay": "§bMusic Disc",
+  "item.resonance.music_disc_underwater_were_okay.desc": "Windows96 - Underwater We're Okay",
+
   "item.resonance.music_disc_new_realization": "§bMusic Disc",
   "item.resonance.music_disc_new_realization.desc": "Windows96 - New Realization",
 
   "item.resonance.music_disc_nevermind": "§bMusic Disc",
   "item.resonance.music_disc_nevermind.desc": "Windows96 - Nevermind",
 
+  "item.resonance.music_disc_synthline": "§bMusic Disc",
+  "item.resonance.music_disc_synthline.desc": "Windows96 - Synthline",
+
   "item.resonance.music_disc_xasd": "§bMusic Disc",
-  "item.resonance.music_disc_xasd.desc": "Gavriel - XASD",
+  "item.resonance.music_disc_xasd.desc": "Gaviel - XASD",
 
   "item.resonance.music_disc_chronology": "§bMusic Disc",
   "item.resonance.music_disc_chronology.desc": "Lost Odysseas & Gavriel - Chronology",
+
+  "item.resonance.music_disc_pinwheel": "§bMusic Disc",
+  "item.resonance.music_disc_pinwheel.desc": "Alt - Pinwheel",
 
   "item.resonance.music_disc_nome_da_musica": "§bMusic Disc",
   "item.resonance.music_disc_nome_da_musica.desc": "Windows96 - Nome Da Musica",
@@ -24,11 +33,17 @@
   "item.resonance.music_disc_takeaguess": "§bMusic Disc",
   "item.resonance.music_disc_takeaguess.desc": "Windows96 - Takeaguess",
 
+  "item.resonance.music_disc_how_he_found_the_world_all_strange_and_the_world_found_him_strange_likewise": "§bMusic Disc",
+  "item.resonance.music_disc_how_he_found_the_world_all_strange_and_the_world_found_him_strange_likewise.desc": "Windows96 - How He Found The World All Strange And The World Found Him Strange Likewise",
+
   "item.resonance.music_disc_way_way": "§bMusic Disc",
   "item.resonance.music_disc_way_way.desc": "Windows96 - Way Way",
 
   "item.resonance.music_disc_whos_counting_the_days": "§bMusic Disc",
   "item.resonance.music_disc_whos_counting_the_days.desc": "Windows96 - Who's Counting The Days",
+
+  "item.resonance.music_disc_i_think_its_over": "§bMusic Disc",
+  "item.resonance.music_disc_i_think_its_over.desc": "Windows96 - I Think It's Over",
 
   "item.resonance.music_disc_edenic_green_plus": "§bMusic Disc",
   "item.resonance.music_disc_edenic_green_plus.desc": "Windows96 - Edenic Green Plus",
@@ -36,11 +51,17 @@
   "item.resonance.music_disc_crystalline": "§bMusic Disc",
   "item.resonance.music_disc_crystalline.desc": "Windows96 - Crystalline",
 
+  "item.resonance.music_disc_roulette": "§bMusic Disc",
+  "item.resonance.music_disc_roulette.desc": "Windows96 - Roulette",
+
   "item.resonance.music_disc_looking_forward": "§bMusic Disc",
   "item.resonance.music_disc_looking_forward.desc": "Windows96 - Looking Forward",
 
   "item.resonance.music_disc_skysail": "§bMusic Disc",
   "item.resonance.music_disc_skysail.desc": "Windows96 - Skysail",
+
+  "item.resonance.music_disc_discovery": "§bMusic Disc",
+  "item.resonance.music_disc_discovery.desc": "Windows96 - Discovery",
 
   "item.resonance.music_disc_in_between_years": "§bMusic Disc",
   "item.resonance.music_disc_in_between_years.desc": "Windows96 - In Between Years",
@@ -48,11 +69,17 @@
   "item.resonance.music_disc_drifter": "§bMusic Disc",
   "item.resonance.music_disc_drifter.desc": "Windows96 - Drifter",
 
+  "item.resonance.music_disc_ther": "§bMusic Disc",
+  "item.resonance.music_disc_ther.desc": "Windows96 - Ther",
+
   "item.resonance.music_disc_heals": "§bMusic Disc",
   "item.resonance.music_disc_heals.desc": "Windows96 - Heals",
 
   "item.resonance.music_disc_star_level_ii": "§bMusic Disc",
   "item.resonance.music_disc_star_level_ii.desc": "Windows96 - Star Level II",
+
+  "item.resonance.music_disc_star_level": "§bMusic Disc",
+  "item.resonance.music_disc_star_level.desc": "Windows96 - Star Level",
 
   "item.resonance.music_disc_glass_prism": "§bMusic Disc",
   "item.resonance.music_disc_glass_prism.desc": "Windows96 - Glass Prism",
@@ -60,11 +87,17 @@
   "item.resonance.music_disc_underwater": "§bMusic Disc",
   "item.resonance.music_disc_underwater.desc": "Windows96 - Underwater",
 
+  "item.resonance.music_disc_i_swear": "§bMusic Disc",
+  "item.resonance.music_disc_i_swear.desc": "Windows96 - I Swear",
+
   "item.resonance.music_disc_hello_earth": "§bMusic Disc",
   "item.resonance.music_disc_hello_earth.desc": "Windows96 - Hello Earth",
 
   "item.resonance.music_disc_hazy_trip": "§bMusic Disc",
   "item.resonance.music_disc_hazy_trip.desc": "Windows96 - Hazy Trip",
+
+  "item.resonance.music_disc_hypnosis": "§bMusic Disc",
+  "item.resonance.music_disc_hypnosis.desc": "Windows96 - Hypnosis",
 
   "item.resonance.music_disc_caligula": "§bMusic Disc",
   "item.resonance.music_disc_caligula.desc": "Windows96 - Caligula",
@@ -72,11 +105,17 @@
   "item.resonance.music_disc_bliss": "§bMusic Disc",
   "item.resonance.music_disc_bliss.desc": "Windows96 - Bliss",
 
+  "item.resonance.music_disc_mind_mirage": "§bMusic Disc",
+  "item.resonance.music_disc_mind_mirage.desc": "Windows96 - Mind Mirage",
+
   "item.resonance.music_disc_fine_you": "§bMusic Disc",
   "item.resonance.music_disc_fine_you.desc": "Windows96 - Fine, you",
 
   "item.resonance.music_disc_punch_your_face": "§bMusic Disc",
   "item.resonance.music_disc_punch_your_face.desc": "Windows96 - Punch Your Face",
+
+  "item.resonance.music_disc_lost_and_lost": "§bMusic Disc",
+  "item.resonance.music_disc_lost_and_lost.desc": "Windows96 - Lost And Lost",
 
   "item.resonance.music_disc_a_cry_in_the_distance": "§bMusic Disc",
   "item.resonance.music_disc_a_cry_in_the_distance.desc": "Windows96 - A Cry In The Distance",
@@ -84,11 +123,17 @@
   "item.resonance.music_disc_earthbound": "§bMusic Disc",
   "item.resonance.music_disc_earthbound.desc": "Windows96 - Earthbound",
 
+  "item.resonance.music_disc_transient_feeling": "§bMusic Disc",
+  "item.resonance.music_disc_transient_feeling.desc": "Windows96 - Transient Feeling",
+
   "item.resonance.music_disc_chrome": "§bMusic Disc",
   "item.resonance.music_disc_chrome.desc": "Windows96 - Chrome",
 
   "item.resonance.music_disc_unconsious_recollects_ii": "§bMusic Disc",
   "item.resonance.music_disc_unconsious_recollects_ii.desc": "Windows96 - Unconsious Recollects II",
+
+  "item.resonance.music_disc_mizumi": "§bMusic Disc",
+  "item.resonance.music_disc_mizumi.desc": "Windows96 - Mizumi",
 
   "item.resonance.music_disc_tranquility_path": "§bMusic Disc",
   "item.resonance.music_disc_tranquility_path.desc": "Windows96 - Tranquility Path",
@@ -96,11 +141,17 @@
   "item.resonance.music_disc_arcadia_town": "§bMusic Disc",
   "item.resonance.music_disc_arcadia_town.desc": "Windows96 - Arcadia Town",
 
+  "item.resonance.music_disc_dream_port": "§bMusic Disc",
+  "item.resonance.music_disc_dream_port.desc": "Windows96 - Dream Port",
+
   "item.resonance.music_disc_chic_solitude": "§bMusic Disc",
   "item.resonance.music_disc_chic_solitude.desc": "Windows96 - Chic Solitude",
 
   "item.resonance.music_disc_superficialism": "§bMusic Disc",
   "item.resonance.music_disc_superficialism.desc": "Windows96 - Superficialism",
+
+  "item.resonance.music_disc_seeking_truth": "§bMusic Disc",
+  "item.resonance.music_disc_seeking_truth.desc": "Windows96 - Seeking Truth",
 
   "item.resonance.music_disc_aerodynamic_dissemination": "§bMusic Disc",
   "item.resonance.music_disc_aerodynamic_dissemination.desc": "Windows96 - Aerodynamic Dissemination",
@@ -108,11 +159,17 @@
   "item.resonance.music_disc_unit_1644": "§bMusic Disc",
   "item.resonance.music_disc_unit_1644.desc": "Windows96 - Unit 1644",
 
+  "item.resonance.music_disc_tmiasfor_creep": "§bMusic Disc",
+  "item.resonance.music_disc_tmiasfor_creep.desc": "Windows96 - t.m.i.a.s.f.o.r Creep",
+
   "item.resonance.music_disc_drive_slow": "§bMusic Disc",
   "item.resonance.music_disc_drive_slow.desc": "Windows96 - Drive Slow",
 
   "item.resonance.music_disc_no_future": "§bMusic Disc",
   "item.resonance.music_disc_no_future.desc": "Windows96 - No Future",
+
+  "item.resonance.music_disc_are_you_sad_enough": "§bMusic Disc",
+  "item.resonance.music_disc_are_you_sad_enough.desc": "Windows96 - Are You Sad Enough?",
 
   "item.resonance.music_disc_aqua_pura": "§bMusic Disc",
   "item.resonance.music_disc_aqua_pura.desc": "Windows96 - Aqua Pura",
@@ -120,20 +177,44 @@
   "item.resonance.music_disc_u_know": "§bMusic Disc",
   "item.resonance.music_disc_u_know.desc": "Windows96 - U Know",
 
+  "item.resonance.music_disc_sega": "§bMusic Disc",
+  "item.resonance.music_disc_sega.desc": "Windows96 - Sega",
+
   "item.resonance.music_disc_a_new_day": "§bMusic Disc",
   "item.resonance.music_disc_a_new_day.desc": "Windows96 - A New Day",
 
   "item.resonance.music_disc_red_skies": "§bMusic Disc",
   "item.resonance.music_disc_red_skies.desc": "Windows96 - Red Skies",
 
+  "item.resonance.music_disc_another_day": "§bMusic Disc",
+  "item.resonance.music_disc_another_day.desc": "Windows96 - Another Day",
+
   "item.resonance.music_disc_all_i_want": "§bMusic Disc",
   "item.resonance.music_disc_all_i_want.desc": "Windows96 - All I Want",
+
+  "item.resonance.music_disc_refresh_squeezed": "§bMusic Disc",
+  "item.resonance.music_disc_refresh_squeezed.desc": "Windows96 - Refresh, Squeezed",
 
   "item.resonance.music_disc_finite_time": "§6Music Disc",
   "item.resonance.music_disc_finite_time.desc": "Windows96 - Finite Time",
 
+  "item.resonance.disc_fragment_finite_time": "§6Disc Fragment",
+  "item.resonance.disc_fragment_finite_time.desc": "Music Disc - Finite Time",
+
   "item.resonance.music_disc_lynx": "§6Music Disc",
   "item.resonance.music_disc_lynx.desc": "Hotel Pools & Windows96 - Lynx",
+
+  "item.resonance.disc_fragment_lynx": "§6Disc Fragment",
+  "item.resonance.disc_fragment_lynx.desc": "Music Disc - Lynx",
+
+  "item.resonance.music_disc_achievement": "§6Music Disc",
+  "item.resonance.music_disc_achievement.desc": "Windows96 - Achievement",
+
+  "item.resonance.disc_fragment_achievement": "§6Disc Fragment",
+  "item.resonance.disc_fragment_achievement.desc": "Music Disc - Achievement",
+
+  "item.resonance.music_disc_farvel": "§bMusic Disc",
+  "item.resonance.music_disc_farvel.desc": "MoonDrive - Farvel",
 
   "painting.resonance.hall.author": "SquARzY",
   "painting.resonance.hall.title": "Hall",
@@ -173,6 +254,88 @@
 
   "painting.resonance.floating_spheres.author": "Lost Odysseas",
   "painting.resonance.floating_spheres.title": "Floating Spheres",
+
+  "painting.resonance.yes_da_da_da.author": "Windows96",
+  "painting.resonance.yes_da_da_da.title": "Yes Da Da Da",
+
+  "painting.resonance.19999.author": "Windows96",
+  "painting.resonance.19999.title": "19999",
+
+  "painting.resonance.new_twilight.author": "Windows96",
+  "painting.resonance.new_twilight.title": "New Twilight",
+
+  "painting.resonance.achievement.author": "Windows96",
+  "painting.resonance.achievement.title": "Achievement",
+
+  "painting.resonance.cut_up_sections.author": "Windows96",
+  "painting.resonance.cut_up_sections.title": "Cut Up Sections",
+
+  "painting.resonance.dated_new_aesthetic.author": "Windows96",
+  "painting.resonance.dated_new_aesthetic.title": "Dated New Aesthetic",
+
+  "painting.resonance.empty_hiding_world.author": "Windows96",
+  "painting.resonance.empty_hiding_world.title": "Empty Hiding World",
+
+  "painting.resonance.enchanted_instrumentals_and_whispers.author": "Windows96",
+  "painting.resonance.enchanted_instrumentals_and_whispers.title": "Enchanted Instrumentals And Whispers",
+
+  "painting.resonance.glass_prism.author": "Windows96",
+  "painting.resonance.glass_prism.title": "Glass Prism",
+
+  "painting.resonance.gradient_horizont.author": "Windows96",
+  "painting.resonance.gradient_horizont.title": "Gradient Horizont",
+
+  "painting.resonance.how_to_see_through_walls.author": "Windows96",
+  "painting.resonance.how_to_see_through_walls.title": "How To See Through Walls",
+
+  "painting.resonance.in_the_worlde.author": "Windows96",
+  "painting.resonance.in_the_worlde.title": "In The Worlde",
+
+  "painting.resonance.lynx.author": "Windows96",
+  "painting.resonance.lynx.title": "Lynx",
+
+  "painting.resonance.magic_peaks.author": "Windows96",
+  "painting.resonance.magic_peaks.title": "Magic Peaks",
+
+  "painting.resonance.nematophy.author": "Windows96",
+  "painting.resonance.nematophy.title": "Nematophy",
+
+  "painting.resonance.nostalgi_gaius.author": "Windows96",
+  "painting.resonance.nostalgi_gaius.title": "Nostalgi Gaius",
+
+  "painting.resonance.one_hundred_mornings.author": "Windows96",
+  "painting.resonance.one_hundred_mornings.title": "One Hundred Mornings",
+
+  "painting.resonance.optimized.author": "Windows96",
+  "painting.resonance.optimized.title": "Optimized",
+
+  "painting.resonance.pale_meditations.author": "Windows96",
+  "painting.resonance.pale_meditations.title": "Pale Meditations",
+
+  "painting.resonance.plume_valley.author": "Windows96",
+  "painting.resonance.plume_valley.title": "Plume Valley",
+
+  "painting.resonance.red_twilight.author": "Windows96",
+  "painting.resonance.red_twilight.title": "Red Twilight",
+
+  "painting.resonance.reflections.author": "Windows96",
+  "painting.resonance.reflections.title": "Reflections",
+
+  "painting.resonance.vibes.author": "Windows96",
+  "painting.resonance.vibes.title": "Vibes",
+
+  "painting.resonance.vista_of_chaos.author": "Windows96",
+  "painting.resonance.vista_of_chaos.title": "Vista Of Chaos",
+
+  "painting.resonance.finite_time.author": "Windows96",
+  "painting.resonance.finite_time.title": "Finite Time",
+
+  "painting.resonance.the_fool.author": "Windows96",
+  "painting.resonance.the_fool.title": "The Fool",
+
+
+
+
 
 
 

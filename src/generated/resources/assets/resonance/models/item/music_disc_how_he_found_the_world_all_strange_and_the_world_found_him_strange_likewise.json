@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "resonance:item/music_disc_how_he_found_the_world_all_strange_and_the_world_found_him_strange_likewise"
+  }
+}

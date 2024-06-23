@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "resonance:disc_fragment_finite_time"
+    },
+    {
+      "item": "resonance:disc_fragment_finite_time"
+    },
+    {
+      "item": "resonance:disc_fragment_finite_time"
+    },
+    {
+      "item": "resonance:disc_fragment_finite_time"
+    },
+    {
+      "item": "resonance:disc_fragment_finite_time"
+    },
+    {
+      "item": "resonance:disc_fragment_finite_time"
+    },
+    {
+      "item": "resonance:disc_fragment_finite_time"
+    },
+    {
+      "item": "resonance:disc_fragment_finite_time"
+    },
+    {
+      "item": "resonance:disc_fragment_finite_time"
+    }
+  ],
+  "result": {
+    "item": "resonance:music_disc_finite_time"
+  }
+}

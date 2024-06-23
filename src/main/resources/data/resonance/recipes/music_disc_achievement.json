@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "resonance:disc_fragment_achievement"
+    },
+    {
+      "item": "resonance:disc_fragment_achievement"
+    },
+    {
+      "item": "resonance:disc_fragment_achievement"
+    },
+    {
+      "item": "resonance:disc_fragment_achievement"
+    },
+    {
+      "item": "resonance:disc_fragment_achievement"
+    },
+    {
+      "item": "resonance:disc_fragment_achievement"
+    },
+    {
+      "item": "resonance:disc_fragment_achievement"
+    },
+    {
+      "item": "resonance:disc_fragment_achievemnt"
+    },
+    {
+      "item": "resonance:disc_fragment_achievement"
+    }
+  ],
+  "result": {
+    "item": "resonance:music_disc_achievement"
+  }
+}

@@ -358,5 +358,197 @@
         "stream": true
       }
     ]
+  },
+  "underwater_were_okay": {
+    "sounds": [
+      {
+        "name": "resonance:underwater_were_okay",
+        "stream": true
+      }
+    ]
+  },
+  "achievement": {
+    "sounds": [
+      {
+        "name": "resonance:achievement",
+        "stream": true
+      }
+    ]
+  },
+  "synthline": {
+    "sounds": [
+      {
+        "name": "resonance:synthline",
+        "stream": true
+      }
+    ]
+  },
+  "pinwheel": {
+    "sounds": [
+      {
+        "name": "resonance:pinwheel",
+        "stream": true
+      }
+    ]
+  },
+  "how_he_found_the_world_all_strange_and_the_world_found_him_strange_likewise": {
+    "sounds": [
+      {
+        "name": "resonance:how_he_found_the_world_all_strange_and_the_world_found_him_strange_likewise",
+        "stream": true
+      }
+    ]
+  },
+  "i_think_its_over": {
+    "sounds": [
+      {
+        "name": "resonance:i_think_its_over",
+        "stream": true
+      }
+    ]
+  },
+  "roulette": {
+    "sounds": [
+      {
+        "name": "resonance:roulette",
+        "stream": true
+      }
+    ]
+  },
+  "discovery": {
+    "sounds": [
+      {
+        "name": "resonance:discovery",
+        "stream": true
+      }
+    ]
+  },
+  "ther": {
+    "sounds": [
+      {
+        "name": "resonance:ther",
+        "stream": true
+      }
+    ]
+  },
+  "star_level": {
+    "sounds": [
+      {
+        "name": "resonance:star_level",
+        "stream": true
+      }
+    ]
+  },
+  "i_swear": {
+    "sounds": [
+      {
+        "name": "resonance:i_swear",
+        "stream": true
+      }
+    ]
+  },
+  "hypnosis": {
+    "sounds": [
+      {
+        "name": "resonance:hypnosis",
+        "stream": true
+      }
+    ]
+  },
+  "mind_mirage": {
+    "sounds": [
+      {
+        "name": "resonance:mind_mirage",
+        "stream": true
+      }
+    ]
+  },
+  "lost_and_lost": {
+    "sounds": [
+      {
+        "name": "resonance:lost_and_lost",
+        "stream": true
+      }
+    ]
+  },
+  "transient_feeling": {
+    "sounds": [
+      {
+        "name": "resonance:transient_feeling",
+        "stream": true
+      }
+    ]
+  },
+  "mizumi": {
+    "sounds": [
+      {
+        "name": "resonance:mizumi",
+        "stream": true
+      }
+    ]
+  },
+  "dream_port": {
+    "sounds": [
+      {
+        "name": "resonance:dream_port",
+        "stream": true
+      }
+    ]
+  },
+  "seeking_truth": {
+    "sounds": [
+      {
+        "name": "resonance:seeking_truth",
+        "stream": true
+      }
+    ]
+  },
+  "tmiasfor_creep": {
+    "sounds": [
+      {
+        "name": "resonance:tmiasfor_creep",
+        "stream": true
+      }
+    ]
+  },
+  "are_you_sad_enough": {
+    "sounds": [
+      {
+        "name": "resonance:are_you_sad_enough",
+        "stream": true
+      }
+    ]
+  },
+  "sega": {
+    "sounds": [
+      {
+        "name": "resonance:sega",
+        "stream": true
+      }
+    ]
+  },
+  "another_day": {
+    "sounds": [
+      {
+        "name": "resonance:another_day",
+        "stream": true
+      }
+    ]
+  },
+  "refresh_squeezed": {
+    "sounds": [
+      {
+        "name": "resonance:refresh_squeezed",
+        "stream": true
+      }
+    ]
+  },
+  "farvel": {
+    "sounds": [
+      {
+        "name": "resonance:farvel",
+        "stream": true
+      }
+    ]
   }
 }

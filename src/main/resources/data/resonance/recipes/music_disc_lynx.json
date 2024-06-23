@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "resonance:disc_fragment_lynx"
+    },
+    {
+      "item": "resonance:disc_fragment_lynx"
+    },
+    {
+      "item": "resonance:disc_fragment_lynx"
+    },
+    {
+      "item": "resonance:disc_fragment_lynx"
+    },
+    {
+      "item": "resonance:disc_fragment_lynx"
+    },
+    {
+      "item": "resonance:disc_fragment_lynx"
+    },
+    {
+      "item": "resonance:disc_fragment_lynx"
+    },
+    {
+      "item": "resonance:disc_fragment_lynx"
+    },
+    {
+      "item": "resonance:disc_fragment_lynx"
+    }
+  ],
+  "result": {
+    "item": "resonance:music_disc_lynx"
+  }
+}
