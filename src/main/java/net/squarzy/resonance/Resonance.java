@@ -9,10 +9,10 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
-import net.squarzy.resonance.item.Moditems;
-import net.squarzy.resonance.item.ResonanceModCreativeTab;
-import net.squarzy.resonance.painting.ResonancePaintingVariants;
-import net.squarzy.resonance.sound.Modsounds;
+import net.squarzy.resonance.common.registry.item.Resonanceitems;
+import net.squarzy.resonance.common.registry.item.ResonanceModCreativeTab;
+import net.squarzy.resonance.common.registry.painting.ResonancePaintingVariants;
+import net.squarzy.resonance.common.registry.sound.Resonancesounds;
 
 
 // The value here should match an entry in the META-INF/mods.toml file
@@ -27,9 +27,9 @@ public class Resonance {
 
         ResonanceModCreativeTab.register(modEventBus);
 
-        Moditems.register(modEventBus);
+        Resonanceitems.register(modEventBus);
 
-        Modsounds.register(modEventBus);
+        Resonancesounds.register(modEventBus);
 
         ResonancePaintingVariants.register(modEventBus);
 

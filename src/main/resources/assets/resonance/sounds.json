@@ -550,5 +550,253 @@
         "stream": true
       }
     ]
+  },
+  "its_changed": {
+    "sounds": [
+      {
+        "name": "resonance:its_changed",
+        "stream": true
+      }
+    ]
+  },
+  "dream_place_ii": {
+    "sounds": [
+      {
+        "name": "resonance:dream_place_ii",
+        "stream": true
+      }
+    ]
+  },
+  "skunk": {
+    "sounds": [
+      {
+        "name": "resonance:skunk",
+        "stream": true
+      }
+    ]
+  },
+  "nocturne_button_presses": {
+    "sounds": [
+      {
+        "name": "resonance:nocturne_button_presses",
+        "stream": true
+      }
+    ]
+  },
+  "new_midsts_acid": {
+    "sounds": [
+      {
+        "name": "resonance:new_midsts_acid",
+        "stream": true
+      }
+    ]
+  },
+  "many_years": {
+    "sounds": [
+      {
+        "name": "resonance:many_years",
+        "stream": true
+      }
+    ]
+  },
+  "neblina": {
+    "sounds": [
+      {
+        "name": "resonance:neblina",
+        "stream": true
+      }
+    ]
+  },
+  "pacific": {
+    "sounds": [
+      {
+        "name": "resonance:pacific",
+        "stream": true
+      }
+    ]
+  },
+  "32k": {
+    "sounds": [
+      {
+        "name": "resonance:32k",
+        "stream": true
+      }
+    ]
+  },
+  "see_you": {
+    "sounds": [
+      {
+        "name": "resonance:see_you",
+        "stream": true
+      }
+    ]
+  },
+  "wasting_time": {
+    "sounds": [
+      {
+        "name": "resonance:wasting_time",
+        "stream": true
+      }
+    ]
+  },
+  "rituals": {
+    "sounds": [
+      {
+        "name": "resonance:rituals",
+        "stream": true
+      }
+    ]
+  },
+  "one_day": {
+    "sounds": [
+      {
+        "name": "resonance:one_day",
+        "stream": true
+      }
+    ]
+  },
+  "motion": {
+    "sounds": [
+      {
+        "name": "resonance:motion",
+        "stream": true
+      }
+    ]
+  },
+  "unconscious_recollects": {
+    "sounds": [
+      {
+        "name": "resonance:unconscious_recollects",
+        "stream": true
+      }
+    ]
+  },
+  "highwind_prairie": {
+    "sounds": [
+      {
+        "name": "resonance:highwind_prairie",
+        "stream": true
+      }
+    ]
+  },
+  "talking_and_talking": {
+    "sounds": [
+      {
+        "name": "resonance:talking_and_talking",
+        "stream": true
+      }
+    ]
+  },
+  "promyshlennyi": {
+    "sounds": [
+      {
+        "name": "resonance:promyshlennyi",
+        "stream": true
+      }
+    ]
+  },
+  "chasing_the_sun": {
+    "sounds": [
+      {
+        "name": "resonance:chasing_the_sun",
+        "stream": true
+      }
+    ]
+  },
+  "whitenoisetruthfull": {
+    "sounds": [
+      {
+        "name": "resonance:whitenoisetruthfull",
+        "stream": true
+      }
+    ]
+  },
+  "after": {
+    "sounds": [
+      {
+        "name": "resonance:after",
+        "stream": true
+      }
+    ]
+  },
+  "07_101fitness": {
+    "sounds": [
+      {
+        "name": "resonance:07_101fitness",
+        "stream": true
+      }
+    ]
+  },
+  "history_magic": {
+    "sounds": [
+      {
+        "name": "resonance:history_magic",
+        "stream": true
+      }
+    ]
+  },
+  "pnemia": {
+    "sounds": [
+      {
+        "name": "resonance:pnemia",
+        "stream": true
+      }
+    ]
+  },
+  "xorri": {
+    "sounds": [
+      {
+        "name": "resonance:xorri",
+        "stream": true
+      }
+    ]
+  },
+  "bestill": {
+    "sounds": [
+      {
+        "name": "resonance:bestill",
+        "stream": true
+      }
+    ]
+  },
+  "clairvoyance": {
+    "sounds": [
+      {
+        "name": "resonance:clairvoyance",
+        "stream": true
+      }
+    ]
+  },
+  "conflicting_ideas": {
+    "sounds": [
+      {
+        "name": "resonance:conflicting_ideas",
+        "stream": true
+      }
+    ]
+  },
+  "little_to_no_meaning": {
+    "sounds": [
+      {
+        "name": "resonance:little_to_no_meaning",
+        "stream": true
+      }
+    ]
+  },
+  "unison": {
+    "sounds": [
+      {
+        "name": "resonance:unison",
+        "stream": true
+      }
+    ]
+  },
+  "reaching_out": {
+    "sounds": [
+      {
+        "name": "resonance:reaching_out",
+        "stream": true
+      }
+    ]
   }
 }
